@@ -1,7 +1,7 @@
-<!-- <?php 
+<?php 
 
-header("Location: ./exercice1");
+header("Location: ./exercice");
 exit();
 
-?> -->
+?> 
 
