@@ -18,7 +18,7 @@ var_dump($_GET);
     <title>Document</title>
 </head>
 <body>
-   
+   <a href="index.php?lastname=Nemare&firstname=Jean">Accueil</a>
 </body>
 </html>
  
